@@ -204,6 +204,3 @@ if __name__ == '__main__':
     # print(compresse('Hades.png', 'compresse2', 11))
     # print(compresse('DarkSideMoon.png', 'compresse3', 3))
     # print(compresse('DarkSideMoon.png', 'compresse3', 7))
-    #
-    # print(noir_blanc('pommeRouge.png', 'assertiontest1', -1))
-    # print(noir_blanc('pommeRouge.png', 'assertiontest2', 256))
